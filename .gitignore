@@ -11,6 +11,10 @@
 # production
 /build
 
+# secrets
+credentials.js
+z_lightinfo.txt
+
 # misc
 .DS_Store
 .env.local

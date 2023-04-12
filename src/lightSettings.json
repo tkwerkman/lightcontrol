@@ -1,0 +1,22 @@
+{
+	"Bright Cold": {
+		"colormode": "ct",
+		"ct": 153,
+		"bri": 254
+	},
+	"Bright Warm": {
+		"colormode": "ct",
+		"ct": 500,
+		"bri": 254
+	},
+	"Dim Warm": {
+		"colormode": "ct",
+		"ct": 500,
+		"bri": 150
+	},
+	"Purple": {
+		"colormode": "xy",
+		"xy": [0.1897, 0.0652],
+		"bri": 254
+	}
+}
